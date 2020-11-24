@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ved-P/CheeriOS">
-    <img src="images/cheerios-logo.png" alt="Logo" width="120" height="90">
+    <img src="images/cheerios-logo.png" alt="Logo" width="240" height="180">
   </a>
 
   <h3 align="center">CheeriOS</h3>
