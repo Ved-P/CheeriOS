@@ -55,16 +55,19 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Cheeri Operating System, or **CheeriOS** for short, is a simple application made in Java to emulate what an Operating System would look like. It is designed to be a friendly, customizable Operating System. It will include features that allow users to customize how their screen looks like for a comfortable layout. Furthermore, it will include a way for applications to be built into the Operating System. Many features are planned for CheeriOS, as follows:
+* A File Manager
+* A Browser
+* A Terminal Window
+* A File Editor designed for Coding
+* More!
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+**Disclaimer:** CheeriOS is not a real Operating System for the following reasons:
+* It does not connect harware to software applications.
+* It does not include and operate with a low-level language.
+* It is designed to be run in a different OS.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+However, CheeriOS is designed to look like an Operating System, and maybe a precursor to a new Operating System coming soon!
 
 <!--
 ### Built With
@@ -143,5 +146,5 @@ Project Link: [https://github.com/Ved-P/CheeriOS](https://github.com/Ved-P/Cheer
 [issues-shield]: https://img.shields.io/github/issues/Ved-P/CheeriOS.svg?style=for-the-badge
 [issues-url]: https://github.com/Ved-P/CheeriOS/issues
 [license-shield]: https://img.shields.io/github/license/Ved-P/CheeriOS.svg?style=for-the-badge
-[license-url]: https://github.com/Ved-P/CheeriOS/blob/main/LICENSE.txt
+[license-url]: https://github.com/Ved-P/CheeriOS/blob/main/LICENSE
 <!-- [product-screenshot]: images/cheerios-logo.png -->
